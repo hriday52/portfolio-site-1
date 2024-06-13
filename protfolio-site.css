@@ -1,0 +1,44 @@
+body {
+
+    font-family: "Poppins", sans-serif;
+    margin: 0px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.hriday-c {
+
+    color: orange;
+
+}
+
+section {
+
+    display: flex;
+}
+
+.wi {
+    width: 50%;
+    padding: 5%;
+}
+
+.wi img {
+    width: 100%;
+}
+
+.hire-me {
+    text-decoration: none;
+    background-image: linear-gradient(orange, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 700;
+
+}
+
+.top-bg {
+    background-image: url(bgt.jpg);
+    background-repeat: no-repeat;
+}
