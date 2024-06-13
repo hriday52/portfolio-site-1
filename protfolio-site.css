@@ -42,3 +42,24 @@ section {
     background-image: url(bgt.jpg);
     background-repeat: no-repeat;
 }
+
+.life-t-c {
+    color: rgb(201, 26, 201);
+    font-size: 50px;
+
+}
+
+.exp {
+    font-size: 50px;
+}
+
+section {
+    display: flex;
+    margin-bottom: 150px;
+}
+
+.dream-big {
+
+    background-image: url(bn3.jpg);
+    background-repeat: no-repeat;
+}
