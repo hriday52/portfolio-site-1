@@ -84,3 +84,27 @@ section {
 
 
 }
+
+#web-exprince {
+    border-left: 15px solid;
+    border-image: linear-gradient(rgb(24, 8, 243), rgb(4, 232, 240));
+    border-image-slice: 1;
+}
+
+#app-exprince {
+    border-left: 15px solid;
+    border-image: linear-gradient(rgb(8, 227, 235), rgb(10, 6, 231));
+    border-image-slice: 1;
+
+}
+
+.exprience-area {
+    background-image: url(futer-bk.jpg);
+    background-repeat: no-repeat;
+
+}
+
+footer {
+    text-align: center;
+
+}
